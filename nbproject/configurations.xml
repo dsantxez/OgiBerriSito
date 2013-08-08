@@ -39,7 +39,7 @@
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <qt>
-        <modules>core gui</modules>
+        <modules>core gui network sql</modules>
       </qt>
       <compileType>
       </compileType>
